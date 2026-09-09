@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:scaleX="0.65"
+        android:scaleY="0.65"
+        android:translateX="18.9"
+        android:translateY="18.9">
+        
+        <!-- Central Glow Outer Ring -->
+        <path
+            android:fillColor="#10A37F"
+            android:fillAlpha="0.15"
+            android:pathData="M54,16 A38,38 0 1,1 53.9,16 Z" />
+
+        <!-- ChatGPT Swirl Petal 1 (Top) -->
+        <path
+            android:fillColor="#10A37F"
+            android:pathData="M54,22 C48,22 43,26 43,32 L43,44 C43,45 44,46 45,46 L58,38 C60,37 62,37 64,38 L68,40 C69,37 68,33 66,30 C63,25 59,22 54,22 Z" />
+
+        <!-- ChatGPT Swirl Petal 2 (Top Right) -->
+        <path
+            android:fillColor="#10A37F"
+            android:pathData="M78,35 C75,30 69,27 63,29 L53,35 C52,36 52,37 53,38 L67,46 C68,47 69,49 69,51 L69,56 C72,55 75,52 76,49 C79,44 80,39 78,35 Z" />
+
+        <!-- ChatGPT Swirl Petal 3 (Bottom Right) -->
+        <path
+            android:fillColor="#10A37F"
+            android:pathData="M78,73 C81,68 80,62 76,57 L66,51 C65,50 64,51 64,52 L64,68 C64,70 63,72 61,73 L57,75 C59,78 62,79 66,79 C71,79 76,77 78,73 Z" />
+
+        <!-- ChatGPT Swirl Petal 4 (Bottom) -->
+        <path
+            android:fillColor="#10A37F"
+            android:pathData="M54,86 C60,86 65,82 65,76 L65,64 C65,63 64,62 63,62 L50,70 C48,71 46,71 44,70 L40,68 C39,71 40,75 42,78 C45,83 49,86 54,86 Z" />
+
+        <!-- ChatGPT Swirl Petal 5 (Bottom Left) -->
+        <path
+            android:fillColor="#10A37F"
+            android:pathData="M30,73 C33,78 39,81 45,79 L55,73 C56,72 56,71 55,70 L41,62 C40,61 39,59 39,57 L39,52 C36,53 33,56 32,59 C29,64 28,69 30,73 Z" />
+
+        <!-- ChatGPT Swirl Petal 6 (Top Left) -->
+        <path
+            android:fillColor="#10A37F"
+            android:pathData="M30,35 C27,40 28,46 32,51 L42,57 C43,58 44,57 44,56 L44,40 C44,38 45,36 47,35 L51,33 C49,30 46,29 42,29 C37,29 32,31 30,35 Z" />
+
+        <!-- Center Node White Accent -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,46 C49.58,46 46,49.58 46,54 C46,58.42 49.58,62 54,62 C58.42,62 62,58.42 62,54 C62,49.58 58.42,46 54,46 Z" />
+    </group>
+</vector>
+
+
+

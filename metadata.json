@@ -1,0 +1,7 @@
+{
+  "name": "OmniAI Studio",
+  "description": "ChatGPT-like real-time AI assistant for instant chat, coding assistance, image generation, and video generation in one unified workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
